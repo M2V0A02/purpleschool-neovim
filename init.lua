@@ -5,3 +5,5 @@ require("core.colors")
 require("core.configs")
 
 require("plugins.neotree")
+require("plugins.treesitter")
+require("plugins.lspconfig")
